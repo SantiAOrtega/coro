@@ -7,6 +7,10 @@ Coro detecta qué suena en **Spotify** o **Apple Music**, descarga la letra sinc
 
 > ⚠️ Ojos en la carretera. La letra en CarPlay es para un vistazo o para tus pasajeros.
 
+[![Coro en la app, la pantalla de bloqueo, CarPlay y los ajustes](demo/poster.png)](demo/coro-demo.mp4)
+
+▶︎ [Ver el vídeo de presentación](demo/coro-demo.mp4) (26 s). Usa la letra inventada de la fuente Demo; la escena de CarPlay es una maqueta.
+
 ---
 
 ## Para probarlo mañana en el coche (≈20 min)
