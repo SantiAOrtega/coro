@@ -1,0 +1,9 @@
+Config.xcconfig
+Coro.xcodeproj/
+App/Info.plist
+Widgets/Info.plist
+.build/
+.swiftpm/
+DerivedData/
+xcuserdata/
+.DS_Store

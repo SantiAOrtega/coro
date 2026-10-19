@@ -1,0 +1,12 @@
+// Copia este archivo como Config.xcconfig (setup.sh lo hace por ti) y rellénalo.
+// Config.xcconfig está en .gitignore: no subas tu Client ID ni tu Team ID.
+
+// Tu Team ID de Apple (Xcode > Settings > Accounts, o developer.apple.com > Membership).
+// Puedes dejarlo vacío y elegir el equipo en Xcode > Signing & Capabilities.
+DEVELOPMENT_TEAM =
+
+// Debe ser único. Cámbialo por algo tuyo.
+APP_BUNDLE_ID = com.santi.coro
+
+// developer.spotify.com/dashboard > tu app > Settings > Client ID
+SPOTIFY_CLIENT_ID =
